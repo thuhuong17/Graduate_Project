@@ -1,5 +1,5 @@
 <h1 align="center">
-Dynonary English - Ứng dụng học tiếng Anh miễn phí cho người Việt
+Orianna English - Ứng dụng học tiếng Anh miễn phí cho người Việt
 </h1>
 
 <!-- TABLE OF CONTENTS -->
@@ -30,7 +30,7 @@ Dynonary English - Ứng dụng học tiếng Anh miễn phí cho người Việ
 ---
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dynonary/image/upload/w_1200,h_630/v1626682179/dynonary/logo/dynonary-cover.png" alt="Photo" />
+  <img src="https://www.facebook.com/photo.php?fbid=1339758879751422&set=pb.100011519686203.-2207520000&type=3" alt="Photo" />
 </div>
 
 <br />
