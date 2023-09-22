@@ -2,7 +2,7 @@
 - Đây là dự án về học và thi thử toeic
 - Được sủ dụng mã nguồn mở từ cộng đồng IT
 - Tôi muốn phát triển một số chức năng cho website
-Dynonary English - Ứng dụng học tiếng Anh miễn phí cho người Việt 
+Dynonary English - Ứng dụng học và thi thử Toeic miễn phí cho người Việt 
 📑 Mục lục
 Giới thiệu về dự án
 Mục tiêu
