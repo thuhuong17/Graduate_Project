@@ -37,15 +37,15 @@ Orianna English - Ứng dụng học tiếng Anh miễn phí cho người Việt
 
 ### 🎯 Mục tiêu
 
-Dynonary là ứng dụng học tiếng Anh hoàn toàn miễn phí cho người Việt Nam, được phát triển bởi [Dyno Nguyen](https://dynonguyen.com). Với mong muốn cải thiện tiếng Anh bản thân và mọi người nhưng không gây sự nhàm chán trong việc học, tôi đã xây dựng nên ứng dụng này.
+Orianna English là ứng dụng học tiếng Anh hoàn toàn miễn phí cho người Việt Nam, được phát triển bởi [Eric](). Với mong muốn cải thiện tiếng Anh bản thân và mọi người nhưng không gây sự nhàm chán trong việc học, tôi đã xây dựng nên ứng dụng này.
 
-Dynonary sẽ tổng hợp từ vựng, ngữ pháp và các bài viết từ nhiều nguồn đáng tin cậy, kết hợp với những tính năng rất hữu dụng của ứng dụng. Điều này sẽ giúp bạn tiết kiệm rất nhiều thời gian trong việc học tiếng Anh của mình.
+Orianna English sẽ tổng hợp từ vựng, ngữ pháp và các bài viết, các đề thi từ nhiều nguồn đáng tin cậy, kết hợp với những tính năng rất hữu dụng của ứng dụng. Điều này sẽ giúp bạn tiết kiệm rất nhiều thời gian trong việc học tiếng Anh của mình.
 
-Dynonary cũng là một `Pet Project` giúp tôi ôn luyện kỹ năng lập trình của mình. Và đây cũng là một dự án `mã nguồn mở`, vì thế rất mong sự đóng góp, phát triển ứng dụng của mọi người.
+Orianna English cũng là một `Pet Project` giúp tôi ôn luyện kỹ năng lập trình của mình. Và đây cũng là một dự án `mã nguồn mở`, vì thế rất mong sự đóng góp, phát triển ứng dụng của mọi người.
 
 ### ✨ Tính năng
 
-![Main Features](https://res.cloudinary.com/dynonary/image/upload/v1627098768/dynonary/logo/dyno-main.png)
+![Main Features]()
 
 - Đăng ký, đăng nhập sử dụng Dynonary. Có thể đăng nhập với Google và Facebook.
 - Đóng góp từ vựng, câu bởi người dùng.
@@ -66,11 +66,9 @@ Dynonary cũng là một `Pet Project` giúp tôi ôn luyện kỹ năng lập t
 
 - Backend, Database
 
-  - Nodejs, ExpressJS, RESTFul APIs.
-  - MongoDB, MongooseJS.
-  - JWT (JSON Web Token).
-  - Nodemailer.
-  - Passport (Google Token, Facebook token).
+  - RESTFul APIs.
+  - Java Spring boot.
+  - MySQL
 
 - Frontend
 
@@ -80,8 +78,6 @@ Dynonary cũng là một `Pet Project` giúp tôi ôn luyện kỹ năng lập t
   - Redux, react-redux, Reudx-toolkit.
 
 - Storage, Hosting, Cloud:
-  - Cloudinary.
-  - Mongodb Atlas.
   - Heroku Hosting.
 
 ---
@@ -99,7 +95,7 @@ Dynonary cũng là một `Pet Project` giúp tôi ôn luyện kỹ năng lập t
 1. Clone project này
 
 ```
-  git clone https://github.com/TuanNguyen2504/dynonary-english
+  git clone 
 ```
 
 2. Cài đặt thư viện ở Backend, Frontend
